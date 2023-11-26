@@ -16,16 +16,16 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<TextStyle.Black>Welcome</>",
+          "buttontext": "<TextStyle.Red>Welcome</>",
           "title1": "Welcome to Bloodlust PVP",
-          "text1": "For info and updates be sure to join Discord. ",
+          "text1": "<TextStyle.Red>For info and updates be sure to join Discord.</> ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "Server Settings",
+          "buttontext": "<TextStyle.Red>Server Settings</>",
           "title1": "Left title",
           "title2": "Right title",
           "text1": "This text goes into the left box",
@@ -65,7 +65,7 @@
     "links": [
       {
         "link1": {
-          "text": "Discord",
+          "text": "<TextStyle.Red>Discord</>",
           "url": "https://discord.gg/6gz2GSry7A"
         }
       }
