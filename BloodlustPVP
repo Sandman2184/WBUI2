@@ -18,7 +18,26 @@
           "layout": 1,
           "buttontext": "<TextStyle.Red>Welcome</>",
           "title1": "Welcome to Bloodlust PVP",
-          "text1": "",
+          "text1": "Server Settings
+
+- Experience: 20x
+- Gathering: 20x
+- Taming: 20x
+- Egg Hatching: 50x
+- Baby Maturation: 20x
+- Max wild dino lvl: 200
+- Max Survivor lvl: 105 + Asc + chibi
+- Dinos Boosted Stats
+- Player Boosted Stats
+- Player Map Location: Enabled
+- Third Person: Enabled
+- PVP: Enabled
+- Unlimited Mind Wipes
+- Tribe slot CD: 3h
+- 4 man Tribes NO ALLIES 
+- 100 turret limit per 35~ foundations
+- Loot quality: 3
+- Crafting Skill 2",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
