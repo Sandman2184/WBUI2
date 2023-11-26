@@ -28,7 +28,7 @@
           "buttontext": "<TextStyle.Red>Server Settings</>",
           "title1": "<TextStyle.Black>Settings</>",
           "title2": "Right title",
-          "text1": "<TextStyle.Black>\nExperience: 20x</>\n<TextStyle.Black>Gathering: 20x</>",
+          "text1": "<TextStyle.Black>Experience: 20x</>",
           "text2": "This text goes into the right box",
           "imageurl": "https://i.imgur.com/lfXUA8k.jpeg"
         }
