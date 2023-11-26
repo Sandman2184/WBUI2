@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 1,
-          "buttontext": "<TextStyle.Red>Welcome</>",
+          "buttontext": "<TextStyle.Black>Welcome</>",
           "title1": "Welcome to Bloodlust PVP",
           "text1": "For info and updates be sure to join Discord. ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
