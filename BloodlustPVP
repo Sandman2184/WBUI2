@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<TextStyle.Red>Welcome</>",
           "title1": "Welcome to Bloodlust PVP",
-          "text1": "",
+          "text1": "Server Settings",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
