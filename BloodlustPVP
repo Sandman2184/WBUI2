@@ -26,9 +26,9 @@
         "tab2": {
           "layout": 2,
           "buttontext": "<TextStyle.Red>Server Settings</>",
-          "title1": "<TextStyle.Black>Settings</>",
+          "title1": "<TextStyle.Red>Settings</>",
           "title2": "Right title",
-          "text1": "<TextStyle.Black>Experience: 20x</>\n<TextStyle.Black>Gathering: 20x</>\n<TextStyle.Black>Taiming: 20x</>\n<TextStyle.Black>Egg Hatching: 50x</>\n<TextStyle.Black>Baby Maturation: 20x</>\n<TextStyle.Black>Max wild dino lvl: 200</>\n<TextStyle.Black>Max Survivor lvl: 105 + Asc + chibi</>\n<TextStyle.Black>Dinos Boosted Stats</>\n<TextStyle.Black>Player Boosted Stats</>\n<TextStyle.Black>Player Map Location: Enabled</>\n<TextStyle.Black>Third Person: Enabled</>\n<TextStyle.Black>PVP: Enabled</>\n<TextStyle.Black>Unlimited Mind Wipes</>\n<TextStyle.Black>4 man Tribes NO ALLIES</>\n<TextStyle.Black>100 turret limit per 35~ foundations</>\n<TextStyle.Black>Loot quality: 3</>\n<TextStyle.Black>Crafting Skill 2</>",
+          "text1": "<TextStyle.Red>Experience: 20x</>\n<TextStyle.Red>Gathering: 20x</>\n<TextStyle.Red>Taiming: 20x</>\n<TextStyle.Red>Egg Hatching: 50x</>\n<TextStyle.Red>Baby Maturation: 20x</>\n<TextStyle.Red>Max wild dino lvl: 200</>\n<TextStyle.Red>Max Survivor lvl: 105 + Asc + chibi</>\n<TextStyle.Red>Dinos Boosted Stats</>\n<TextStyle.Red>Player Boosted Stats</>\n<TextStyle.Red>Player Map Location: Enabled</>\n<TextStyle.Red>Third Person: Enabled</>\n<TextStyle.Red>PVP: Enabled</>\n<TextStyle.Red>Unlimited Mind Wipes</>\n<TextStyle.Red>4 man Tribes NO ALLIES</>\n<TextStyle.Red>100 turret limit per 35~ foundations</>\n<TextStyle.Red>Loot quality: 3</>\n<TextStyle.Red>Crafting Skill 2</>",
           "text2": "This text goes into the right box",
           "imageurl": ""
         }
