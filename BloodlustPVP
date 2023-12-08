@@ -18,7 +18,7 @@
           "layout": 1,
           "buttontext": "<TextStyle.Red>Welcome</>",
           "title1": "Welcome to Bloodlust PVP",
-          "text1": "<TextStyle.Red>For info and updates be sure to join Discord.</> ",
+          "text1": "<TextStyle.Red>For info rules and updates be sure to join Discord.</> ",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
         }
       },
